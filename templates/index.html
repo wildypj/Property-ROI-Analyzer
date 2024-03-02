@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Property ROI Analyzer</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="{{ url_for('static', filename='property_search.js') }}"></script> 
+</head>
+<body>
+    <div class="container">
+        <h1>Property ROI Analyzer</h1>
+        <form id="property-form" class="search-form">
+            <label for="property_url">Enter Property URL:</label><br>
+            <input type="text" id="property_url" name="property_url" class="search-input"><br><br>
+            <button type="submit" class="search-button">Search</button>
+        </form>
+
+        <div id="property-details" class="property-details"></div> <!-- Placeholder for property details -->
+    </div>
+</body>
+</html>
+

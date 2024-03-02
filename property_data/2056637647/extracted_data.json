@@ -1,0 +1,40 @@
+{
+    "price": 250000,
+    "livingArea": 1676,
+    "propertyTypeDimension": "Single Family",
+    "bedrooms": 4,
+    "lotSize": null,
+    "timeOnZillow": "52 days",
+    "bathrooms": 2,
+    "yearBuilt": 1920,
+    "propertyCondition": null,
+    "parkingFeatures": null,
+    "hasOpenParking": null,
+    "basement": null,
+    "county": "Queens County",
+    "mortgageRates": {
+        "thirtyYearFixedRate": null
+    },
+    "zestimate": 249400,
+    "rentZestimate": 3800,
+    "propertyTaxRate": 0.89,
+    "feesAndDues": null,
+    "fee": null,
+    "type": null,
+    "associationFee": null,
+    "hoaFee": null,
+    "hoaFeeTotal": null,
+    "heating": null,
+    "address": {
+        "community": null,
+        "city": "Rosedale",
+        "state": "NY",
+        "neighborhood": null,
+        "subdivision": null,
+        "streetAddress": "241-6 137th Ave",
+        "zipcode": "11422"
+    },
+    "cityRegion": null,
+    "name": null,
+    "level": null
+}
